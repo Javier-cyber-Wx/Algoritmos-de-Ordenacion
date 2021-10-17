@@ -1,0 +1,16 @@
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento de burbuja\obj\Debug\net5.0\Ordenamiento de burbuja.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento de burbuja\obj\Debug\net5.0\Ordenamiento de burbuja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento de burbuja\obj\Debug\net5.0\Ordenamiento de burbuja.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento de burbuja\obj\Debug\net5.0\Ordenamiento de burbuja.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento de burbuja\obj\Debug\net5.0\Ordenamiento de burbuja.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento de burbuja\bin\Debug\net5.0\Ordenamiento de burbuja.exe
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento de burbuja\bin\Debug\net5.0\Ordenamiento de burbuja.deps.json
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento de burbuja\bin\Debug\net5.0\Ordenamiento de burbuja.runtimeconfig.json
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento de burbuja\bin\Debug\net5.0\Ordenamiento de burbuja.runtimeconfig.dev.json
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento de burbuja\bin\Debug\net5.0\Ordenamiento de burbuja.dll
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento de burbuja\bin\Debug\net5.0\ref\Ordenamiento de burbuja.dll
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento de burbuja\bin\Debug\net5.0\Ordenamiento de burbuja.pdb
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento de burbuja\obj\Debug\net5.0\Ordenamiento de burbuja.dll
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento de burbuja\obj\Debug\net5.0\ref\Ordenamiento de burbuja.dll
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento de burbuja\obj\Debug\net5.0\Ordenamiento de burbuja.pdb
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento de burbuja\obj\Debug\net5.0\Ordenamiento de burbuja.genruntimeconfig.cache

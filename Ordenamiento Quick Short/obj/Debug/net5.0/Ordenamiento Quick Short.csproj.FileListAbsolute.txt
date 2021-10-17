@@ -1,0 +1,16 @@
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Quick Short\bin\Debug\net5.0\Ordenamiento Quick Short.exe
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Quick Short\bin\Debug\net5.0\Ordenamiento Quick Short.deps.json
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Quick Short\bin\Debug\net5.0\Ordenamiento Quick Short.runtimeconfig.json
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Quick Short\bin\Debug\net5.0\Ordenamiento Quick Short.runtimeconfig.dev.json
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Quick Short\bin\Debug\net5.0\Ordenamiento Quick Short.dll
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Quick Short\bin\Debug\net5.0\ref\Ordenamiento Quick Short.dll
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Quick Short\bin\Debug\net5.0\Ordenamiento Quick Short.pdb
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Quick Short\obj\Debug\net5.0\Ordenamiento Quick Short.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Quick Short\obj\Debug\net5.0\Ordenamiento Quick Short.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Quick Short\obj\Debug\net5.0\Ordenamiento Quick Short.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Quick Short\obj\Debug\net5.0\Ordenamiento Quick Short.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Quick Short\obj\Debug\net5.0\Ordenamiento Quick Short.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Quick Short\obj\Debug\net5.0\Ordenamiento Quick Short.dll
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Quick Short\obj\Debug\net5.0\ref\Ordenamiento Quick Short.dll
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Quick Short\obj\Debug\net5.0\Ordenamiento Quick Short.pdb
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Quick Short\obj\Debug\net5.0\Ordenamiento Quick Short.genruntimeconfig.cache

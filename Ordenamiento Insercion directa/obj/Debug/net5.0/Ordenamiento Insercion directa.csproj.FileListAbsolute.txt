@@ -1,0 +1,16 @@
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Insercion directa\bin\Debug\net5.0\Ordenamiento Insercion directa.exe
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Insercion directa\bin\Debug\net5.0\Ordenamiento Insercion directa.deps.json
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Insercion directa\bin\Debug\net5.0\Ordenamiento Insercion directa.runtimeconfig.json
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Insercion directa\bin\Debug\net5.0\Ordenamiento Insercion directa.runtimeconfig.dev.json
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Insercion directa\bin\Debug\net5.0\Ordenamiento Insercion directa.dll
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Insercion directa\bin\Debug\net5.0\ref\Ordenamiento Insercion directa.dll
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Insercion directa\bin\Debug\net5.0\Ordenamiento Insercion directa.pdb
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Insercion directa\obj\Debug\net5.0\Ordenamiento Insercion directa.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Insercion directa\obj\Debug\net5.0\Ordenamiento Insercion directa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Insercion directa\obj\Debug\net5.0\Ordenamiento Insercion directa.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Insercion directa\obj\Debug\net5.0\Ordenamiento Insercion directa.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Insercion directa\obj\Debug\net5.0\Ordenamiento Insercion directa.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Insercion directa\obj\Debug\net5.0\Ordenamiento Insercion directa.dll
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Insercion directa\obj\Debug\net5.0\ref\Ordenamiento Insercion directa.dll
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Insercion directa\obj\Debug\net5.0\Ordenamiento Insercion directa.pdb
+C:\Users\franc\OneDrive\Escritorio\C# programas\Ordenamiento Insercion directa\obj\Debug\net5.0\Ordenamiento Insercion directa.genruntimeconfig.cache
